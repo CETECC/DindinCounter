@@ -1,0 +1,9 @@
+E:\GitHub-Projetos\DindinCounter\DindinCounter\bin\Debug\DindinCounter.exe.config
+E:\GitHub-Projetos\DindinCounter\DindinCounter\bin\Debug\DindinCounter.exe
+E:\GitHub-Projetos\DindinCounter\DindinCounter\bin\Debug\DindinCounter.pdb
+E:\GitHub-Projetos\DindinCounter\DindinCounter\obj\Debug\DindinCounter.csprojResolveAssemblyReference.cache
+E:\GitHub-Projetos\DindinCounter\DindinCounter\obj\Debug\DindinCounter.Form1.resources
+E:\GitHub-Projetos\DindinCounter\DindinCounter\obj\Debug\DindinCounter.Properties.Resources.resources
+E:\GitHub-Projetos\DindinCounter\DindinCounter\obj\Debug\DindinCounter.csproj.GenerateResource.Cache
+E:\GitHub-Projetos\DindinCounter\DindinCounter\obj\Debug\DindinCounter.exe
+E:\GitHub-Projetos\DindinCounter\DindinCounter\obj\Debug\DindinCounter.pdb
